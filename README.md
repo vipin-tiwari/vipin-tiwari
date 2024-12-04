@@ -1,6 +1,5 @@
 <h2> Hi, I'm Vipin! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
-<p><em>CTO @ <a href="https://www.dataravel.com/">DataRavel</a>
 </p>
 
 [![Linkedin: vipin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipinkumar-tiwari/)
